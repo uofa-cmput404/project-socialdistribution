@@ -655,8 +655,9 @@
    - [ ] Prove your project by connecting with at least 1 clone of your project.
    - [ ] Prove your project by connecting with at least 2 other groups.
    - [ ] Prove your project by connecting with at least 3 other groups.
-   - [ ] Make a video demo of your blog (desktop-recorder is ok)
-   - [ ] Make a presentation about your blog
+   - [ ] Make a video demo of your blog (desktop-recorder is ok) 
+      - Your video may not be a part of your presentation.
+   - [ ] Make a presentation about your blog 
    - [ ] Follow the guidelines in the project.org for URLs and services
    - [ ] Allow users to accept or reject friend requests
    - [ ] Images get the same protection that posts get as they are POSTS   
@@ -665,6 +666,7 @@
    - [ ] 1 Working Website
    - [ ] 1 Github git repo
    - [ ] 1 Presentation
+      - May not include the video
    - [ ] 1 OpenAPI (formally 'Swagger') specification for your API 
    - [ ] 1 Video
  
@@ -873,12 +875,12 @@
       - Failure: Feedback ignored.
     - Presentation:
       - Excellent: Presentation within time, shows teamwork,
-        promotes the application.
+        promotes the application, uses the live application to show functionality.
       - Good: Presentation nearly within time, some team works,
         reasonable presentation.
       - Satisfactory: Presentation exists but has problems.
       - Unsatisfactory: Missing or terrible presentation (lack of
-        practice, lack of preparation, irrelevant).
+        practice, lack of preparation, irrelevant) OR presentation includes video.
       - Failure: no presentation
     - Video Demo:
       - Excellent: Video is well presented and not boring, less

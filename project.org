@@ -150,6 +150,7 @@
      connections that are not authenticated!
    - As an author, I want to be able to make posts that are unlisted,
      that are publicly shareable by URI alone (or for embedding images)
+   - As a server admin, I want to be able to host all parts (frontend and backend) on the same server
 ** Main Concepts
    - Author
      - makes posts
